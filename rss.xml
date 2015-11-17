@@ -4,8 +4,15 @@
         <description><![CDATA[Studio Scaile]]></description>
         <link>https://thegrid.ai/scaile/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 18:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 18:21:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scaile/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Not a studio...]]></title>
+            <description><![CDATA[<article><h1>Not a studio...</h1><p>I wish I had a rock wall in my studio.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa00f159-fb1d-4003-b5db-54dcf433e2e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scaile/not-a-studio/index.html</link>
+            <guid isPermaLink="false">5b3c59c6-70ca-45f1-a2d2-32639c834429</guid>
+            <pubDate>Tue, 17 Nov 2015 18:21:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First!]]></title>
             <description><![CDATA[<article><h1>First!</h1><p>I'm first. Well, not really...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db3f833e-4564-4530-8fad-2776bc7e002b.jpg"></article>]]></description>
