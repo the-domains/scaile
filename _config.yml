@@ -22,7 +22,7 @@ color:
     - '#646464'
     - '#b2b2b2'
     - '#bb2028'
-  brandStrength: 0.6875
+  brandStrength: 0
   lightness: 0.3125
   saturation: 0.625
   rhythmicContrast: 0.5
