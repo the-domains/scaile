@@ -1,6 +1,6 @@
 name: scaile
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.97077
 typography_spectrum: 0.24179276428185403
 title: Studio Scaile
 cta:
@@ -23,7 +23,7 @@ color:
     - '#b2b2b2'
     - '#bb2028'
   brandStrength: 0.6875
-  lightness: 0.1463567977771163
-  saturation: 0.7360267504118383
-  rhythmicContrast: 0.6790352105163038
+  lightness: 0.3125
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
