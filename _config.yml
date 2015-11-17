@@ -1,0 +1,23 @@
+name: scaile
+favicon: null
+layout_spectrum: 0.04641089029610157
+typography_spectrum: 0.24179276428185403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8374663991853595
+  lightness: 0.1463567977771163
+  saturation: 0.7360267504118383
+  rhythmicContrast: 0.6790352105163038
+purpose: []
