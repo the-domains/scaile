@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: I wish I had a rock wall in my studio.
-datePublished: '2015-11-17T18:21:38.125Z'
-dateModified: '2015-11-17T18:21:22.834Z'
+datePublished: '2015-11-17T21:18:34.116Z'
+dateModified: '2015-11-17T21:17:40.159Z'
 title: Not a studio...
+sourcePath: _posts/2015-11-17-not-a-studio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-not-a-studio.md
-published: true
 url: not-a-studio/index.html
 _type: Article
 
