@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Studio Scaile]]></title>
+        <description><![CDATA[Studio Scaile]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 17:52:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuck]]></title>
+            <description><![CDATA[<article><h1>Fuck</h1><p>whatever</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b224f019-64bf-4cb6-9f95-bac534dd4447.jpg"></article>]]></description>
+            <link>undefinedfuck/index.html</link>
+            <guid isPermaLink="false">36f20a5f-66b8-4766-9039-e2aa64d82926</guid>
+            <pubDate>Tue, 17 Nov 2015 17:51:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
