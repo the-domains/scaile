@@ -2,21 +2,21 @@
     <channel>
         <title><![CDATA[Studio Scaile]]></title>
         <description><![CDATA[Studio Scaile]]></description>
-        <link>https://thegrid.ai/scaile/</link>
+        <link>http://www.scaile.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 01:52:08 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/scaile/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 05:33:59 GMT</lastBuildDate>
+        <atom:link href="http://www.scaile.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Not a studio...]]></title>
-            <description><![CDATA[<article><h1>Not a studio...</h1><p>I wish I had a rock wall in my studio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a0d92c00a1efd806451cecb58f0d87c4aa92ca.jpg"></article>]]></description>
-            <link>https://thegrid.ai/scaile/not-a-studio/index.html</link>
+            <description><![CDATA[<article><h1>Not a studio...</h1><p>Some of my favorite studio moments... Well, we weren't really in a studio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a0d92c00a1efd806451cecb58f0d87c4aa92ca.jpg"></article>]]></description>
+            <link>http://www.scaile.com/not-a-studio/index.html</link>
             <guid isPermaLink="false">5b3c59c6-70ca-45f1-a2d2-32639c834429</guid>
-            <pubDate>Tue, 17 Nov 2015 21:18:52 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 05:33:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>https://thegrid.ai/scaile/ff01738b-bfe1-4aea-847b-6ffa23ed7fc9/index.html</link>
+            <link>http://www.scaile.com/ff01738b-bfe1-4aea-847b-6ffa23ed7fc9/index.html</link>
             <guid isPermaLink="false">ff01738b-bfe1-4aea-847b-6ffa23ed7fc9</guid>
             <pubDate>Wed, 06 Jan 2016 01:52:07 GMT</pubDate>
         </item>
@@ -30,7 +30,7 @@
         <item>
             <title><![CDATA[First!]]></title>
             <description><![CDATA[<article><h1>First!</h1><p>I'm first. Well, not really...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe810dcb5852170a76b98213c886b4ba6e5ef59.jpg"></article>]]></description>
-            <link>https://thegrid.ai/scaile/fuck/index.html</link>
+            <link>http://www.scaile.com/fuck/index.html</link>
             <guid isPermaLink="false">36f20a5f-66b8-4766-9039-e2aa64d82926</guid>
             <pubDate>Tue, 17 Nov 2015 21:18:37 GMT</pubDate>
         </item>
